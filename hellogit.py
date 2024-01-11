@@ -1,1 +1,1 @@
-print ("Hello Git!")
+print ("Estoy editando el fichero hellogit.py")

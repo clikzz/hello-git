@@ -1,1 +1,1 @@
-print("Hello Git 2.0 !")
+print("También edité hellogit2.py")
